@@ -1,0 +1,30 @@
+Tasks as a CEO:
+
+- meetings with our biggest customers and suppliers
+- hiring interviews with potiential new employees (currently 150 employees)
+- 150 mio € revenue (Umsatz)
+- managing the companies business, having the last words on making decisions
+- representing the company on public and making presentations of new products
+
+Our services:
+- game server (eg for CS:GO or TF2)
+    special configurated for best performance and game experience
+- voice chat server (eg TS3 or Mumble)
+    maximal performance and minimal delay between all connected clients
+- version control (eg Git or Gitlab)
+    easy rollbacks, working as many on the same projects with less configuartions
+
+Our products:
+- virtual server
+    dynamic configuration of needed ressourses
+    maximal usage of your server power with less hardware
+- root server
+    be god and create your own workspace and playground for any use of that servers
+    our account managers will help you gladly on any issuses you have
+- managed server
+    let us do the work for you. lean back and relax
+- big data analysis
+
+
+- all products and services can be booked / cancelled at any time
+- fastest support you can get
