@@ -6,7 +6,7 @@ _Özgür Genc, Mark Meiwald, René Skupin, Tobias Fuchs, Dennis Smuda_
 
 **Based in Cologne, 20 Employees, 10 Mio € revenue**
 
-**Seed funding 2 Mio €**
+**Seed funding 200.000 €**
 
 #### Contact
 _webshop, email, telephone, social media_
